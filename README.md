@@ -1,4 +1,4 @@
-Space Game
+Spyace Game
 
 'wasd' keys to move.
 'left/right' arrow keys to rotate.
